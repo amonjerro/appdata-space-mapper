@@ -1,0 +1,3 @@
+## Brief Introduction
+
+This is a simple tool to measure what folders are taking up space in the App Data folder in Windows. I built this because the SSD in my old desktop was rather small and the biggest usage of space came from the App Data folder which had several other folders in it. It will go over your App Data folder, with the exclusion of the roaming sub directory and tell you which of the subdirectories is over 100MB in size.
